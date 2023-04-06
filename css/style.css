@@ -294,6 +294,7 @@ a:hover + .box,.box:hover{
  }
  a{
 	text-decoration: none;
+	color: rgb(72, 27, 110);
  }
  
  body{
